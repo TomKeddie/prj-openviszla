@@ -1,0 +1,3 @@
+[submodule "ov_ftdi"]
+	path = ov_ftdi
+	url = https://github.com/openvizsla/ov_ftdi
